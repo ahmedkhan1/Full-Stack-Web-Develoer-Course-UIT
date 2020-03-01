@@ -17,7 +17,7 @@ Now pull the code from the repository and run it with typescript compiler comman
 
 E.g
 
-<b> tsc main.js</b> 
+<b> tsc main.ts</b> 
 
 This will transpile typescript into javascript and generate a main.js file which can be run using the command below
 
