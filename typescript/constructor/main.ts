@@ -1,6 +1,6 @@
 class person {  // Create class person
-  private name :string;   
-  private age : number;
+  name :string;   
+  age : number;
     
   constructor(name, age){
     this.name = name;
@@ -14,8 +14,5 @@ class person {  // Create class person
 }
 
 let obj  = new persion("Ahmed",33);  //call object and  pass values in constructor here
-
-//obj.name = "Ahmed"; // These will not work for Private modifiers
-//obj.age =  23;  // These will not work for Private modifiers
 
 obj.greeting(); // Call greetings function to see the values assigned
