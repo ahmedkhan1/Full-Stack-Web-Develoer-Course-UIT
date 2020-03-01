@@ -7,7 +7,7 @@ To being, First Install typeScript using npm with the following command:
 
 <b> npm install -g typescript</b>
 
-After the package is successfully installed, type 
+After the package is successfully installed, type: 
 
 <b>tsc --v or tsc --version </b>
 
@@ -23,4 +23,4 @@ This will transpile typescript into javascript and generate a main.js file which
 
 <b> node main.js</b> 
 
-
+by running the above command, you can see the output of your code in the terminal.
